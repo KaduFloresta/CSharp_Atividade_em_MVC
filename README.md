@@ -30,8 +30,8 @@
 
 **Fazer um programa com a classe FUNCIONÁRIOS contendo as camadas:**
 
-[X] Model.
-[X] View.
-[X] Controller.
+- [X] Model.
+- [X] View.
+- [X] Controller.
 
 ---
