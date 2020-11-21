@@ -24,12 +24,14 @@
 
 ---
 
-![Análise e Desenvolvimento de Sistemas - Senac 2019](https://www.liveondemand.com.br/wp-content/uploads/2019/05/logo-SENAC.png)
 # CSharp - Atividade MVC
 
 ## Instruções
-Fazer um programa com a classe FUNCIONÁRIOS contendo as camadas:
 
-- Model
-- View
-- Controller
+**Fazer um programa com a classe FUNCIONÁRIOS contendo as camadas:**
+
+[X] Model.
+[X] View.
+[X] Controller.
+
+---
